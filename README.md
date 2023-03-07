@@ -9,7 +9,7 @@ A simple example of a Web Push Notification website and backend.
 
 # Send notifications
 You need a "server side" a way to "SEND NOTIFICATIONS" 
-you do that by simply navigating over to: ```http://localhost:5000/notify``` which will send the notification to your other window. (or if you close it will pop up a notifice message on the right of your computer or top or your phone.
+you do that by simply navigating over to: ```http://localhost:5004/notify``` which will send the notification to your other window. (or if you close it will pop up a notifice message on the right of your computer or top or your phone.
 
 See slides and presentation from my talk at the South Florida Code Camp Conference and the BocaJS Developer Group
 https://docs.google.com/presentation/d/1-pkdU-Ol26OpuISnqPzFne5LW7flGOMWYxIw9HrlIqQ
